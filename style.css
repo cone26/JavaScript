@@ -1,0 +1,31 @@
+body {
+  height: 100vh;
+  width: 100vw;
+  margin: 0;
+}
+.content {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  background-color: lightgoldenrodyellow;
+}
+button {
+  width: 50px;
+  height: 34px;
+  font-size: 22px;
+  border-radius: 6px;
+  border: none;
+  background-color: lightblue;
+  color: #fff;
+  cursor: pointer;
+  margin: 8px;
+}
+.count {
+  font-size: 30px;
+  font-weight: 600;
+  color: lightcoral;
+  margin-right: 10rem;
+}
